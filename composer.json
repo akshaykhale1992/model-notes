@@ -8,6 +8,11 @@
         "email": "khaleakshay@gmail.com"
     }],
     "require": {},
+    "autoload": {
+        "psr-4": {
+            "AkshayKhale1992\\ModelNote\\": "src/"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
