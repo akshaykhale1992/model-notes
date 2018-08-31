@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace AkshayKhale1992\ModelNote;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -28,6 +28,6 @@ class ModelNoteProvider extends ServiceProvider
 
     public function loadMigrations()
     {
-         $this->loadMigrationsFrom(__DIR__ . '/../../database/migrations');
+         $this->loadMigrationsFrom(__DIR__ . '/../database/migrations');
     }
 }

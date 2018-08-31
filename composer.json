@@ -1,0 +1,20 @@
+{
+    "name": "akshaykhale1992/model-note",
+    "description": "A package to Add Note against a Laravel Model",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "akshay khale",
+            "email": "khaleakshay@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AkshayKhale1992\\ModelNote\\ModelNoteProvider"
+            ]
+        }
+    },
+}
