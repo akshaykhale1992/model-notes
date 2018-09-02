@@ -3,7 +3,7 @@
 ![Scrutinizer Build Status](https://scrutinizer-ci.com/g/akshaykhale1992/model-notes/badges/build.png?b=master)
 
 ## Introduction
-Model Notes is a simple Laravel Package which can be used to add Notes or Comments against any Laravel Eloquent Mode.
+Model Notes is a simple Laravel Package which can be used to add Notes or Comments against any Laravel Eloquent Model.
 
 ## Installation
 You can pull the package using composer. You may use following command to do that.
