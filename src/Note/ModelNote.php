@@ -12,4 +12,9 @@ class ModelNote extends Model
 	{
 		return $this->morphTo();
 	}
+
+	public function creatable()
+	{
+		return $this->morphTo();
+	}
 }
