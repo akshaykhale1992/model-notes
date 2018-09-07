@@ -3,7 +3,7 @@
     "description": "A package to Add Note against a Laravel Model",
     "type": "library",
     "license": "MIT",
-    "version": "1.0",
+    "version": "1.0.0",
     "authors": [{
         "name": "akshay khale",
         "email": "khaleakshay@gmail.com"
