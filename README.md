@@ -8,7 +8,7 @@ Model Notes is a simple Laravel Package which can be used to add Notes or Commen
 ## Installation
 You can pull the package using composer. You may use following command to do that.
 ```
-composer require akshaykhale1992/model-note
+composer require akshaykhale1992/model-note:dev-master
 ```
 
 ## Usage
